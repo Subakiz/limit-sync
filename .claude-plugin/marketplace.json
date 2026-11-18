@@ -1,0 +1,5 @@
+{
+  "name": "limit-sync",
+  "owner": { "name": "Subakiz" },
+  "plugins": [{ "name": "limit-sync", "source": "./" }]
+}

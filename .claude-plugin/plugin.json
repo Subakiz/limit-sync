@@ -1,0 +1,5 @@
+{
+  "name": "limit-sync",
+  "version": "0.1.0",
+  "description": "Re-times the cloud \"Session initializer\" routine to fire right after the 5-hour limit resets, and checks it ran."
+}
